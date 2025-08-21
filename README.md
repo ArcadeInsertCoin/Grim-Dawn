@@ -1,5 +1,5 @@
 ## Skills
-![Skill Tree](./images/trickster_skills.png)
+![Skill Tree](./images/grimdawnnightblade.png)
 
 ## Devotions
-![Devotions](./images/trickster_devotions.png)
+![Devotions](./images/grimdawnshaman.png)
