@@ -38,8 +38,8 @@ _A full leveling & endgame guide for Grim Dawn with all DLCs, optimized for camp
 
 ### Nightblade + Shaman (Level 100 Final Setup)
 
-![Skill Tree](./images/grimdawnnightblade.png)
-
+![Skill Tree](./images/nightblade.png)
+![Skill Tree](./images/shaman.png)
 ---
 
 ## 🌌 Devotions
